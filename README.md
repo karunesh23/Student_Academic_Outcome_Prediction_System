@@ -1,4 +1,4 @@
-# 🎓 Student Academic Outcome Prediction System using XGBoost
+# 🎓 Student Academic Outcome Prediction Using XGBoost
 
 ## 📌 Project Overview
 This project predicts whether a student will:
