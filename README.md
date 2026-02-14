@@ -1,4 +1,4 @@
-# 🎓 Student Dropout & Graduate Prediction using XGBoost
+# 🎓 Student Academic Outcome Prediction System using XGBoost
 
 ## 📌 Project Overview
 This project predicts whether a student will:
