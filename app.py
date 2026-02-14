@@ -35,7 +35,7 @@ st.markdown("""
 # -------------------------------
 # Title
 # -------------------------------
-st.title("🎓 Academic Success / Dropout Prediction System")
+st.title("🎓 Academic Success / Graduate & Dropout Prediction")
 st.markdown("### XGBoost Model with Hyperparameter Tuning")
 st.markdown("---")
 
@@ -146,4 +146,4 @@ else:
 # Footer
 # -------------------------------
 st.markdown("---")
-st.markdown("👨‍💻 Developed by Karunesh | Machine Learning Deployment Project | 2026")
+st.markdown("👨‍💻 Developed by Karunesh | Machine Learning Deployment Project")
