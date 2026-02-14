@@ -102,16 +102,16 @@ git clone https://github.com/karunesh23/Student_Dropout_Prediction_ML.git
 cd Student_Dropout_Prediction_ML
 pip install -r requirements.txt
 streamlit run app.py
+```
 
-👨‍💻 Contact
+---
 
-Have questions, suggestions, or want to collaborate? Feel free to reach out:
-
-📧 Email: karuneshbansal84@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/karunesh-bansal-780828380
+## 👨‍💻 Contact
+Have questions, suggestions, or want to collaborate?
+Feel free to reach out. I would be happy to connect and discuss ideas, projects, or opportunities.
+📧 **Email:** karuneshbansal84@gmail.com  
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/karunesh-bansal-780828380  
 
 I look forward to connecting with you! 🚀
 
-
----
